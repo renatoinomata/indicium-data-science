@@ -6,6 +6,10 @@ Candidato: Renato Massamitsu Zama Inomata.
 
 Linkedin: [https://www.linkedin.com/in/renato-inomata/](https://www.linkedin.com/in/renato-inomata/)
 
+Github: [https://github.com/renatoinomata/](https://github.com/renatoinomata/)
+
+Link para este repositório: [https://github.com/renatoinomata/indicium-data-science](https://github.com/renatoinomata/indicium-data-science)
+
 # Estruturação do trabalho
 
 Neste README está um resumo das análises e resultados obtidos neste trabalho.
